@@ -1,0 +1,8 @@
+*.bak
+Backup/
+old/
+old6/
+*.pdf
+*.mp4
+*.xlsx
+
